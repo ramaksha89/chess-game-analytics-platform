@@ -4,8 +4,7 @@
 
 ## Why This Project?
 
-I've been playing chess casually for years (mostly online on Chess.com and Lichess), and I've always been curious about analyzing my games beyond what the platforms provide. As a data engineer working with Databricks daily, I thought - why not build something that combines both interests?
-
+I was a serious tournament chess player for years, and while I didn't play much online, I spent countless hours analyzing games with ChessBase and Fritz, watching master games, and solving tactical puzzles on Chess.com. As a data engineer working with Databricks daily, I thought - why not combine my chess background with my technical skills to build something that analyzes the game data in ways traditional chess software doesn't?
 This project ingests game data from Chess.com and Lichess APIs, processes it using PySpark on Databricks, and creates analytics-ready datasets. It's honestly been a great learning experience for implementing some advanced DE concepts like SCD Type 2, incremental processing, and proper data modeling.
 
 ## Tech Stack
