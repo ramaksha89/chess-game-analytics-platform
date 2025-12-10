@@ -284,7 +284,7 @@ MIT - do whatever you want with this
 If you're working on similar projects or just want to chat about data engineering / chess, feel free to reach out!
 
 - GitHub: [@ramaksha89](https://github.com/ramaksha89)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)  
+- LinkedIn: [Connect with me] https://www.linkedin.com/in/ram-marreddy
 
 ---
 
